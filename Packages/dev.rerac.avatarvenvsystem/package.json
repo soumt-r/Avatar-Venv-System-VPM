@@ -1,0 +1,15 @@
+{
+  "name": "dev.rerac.avatarvenvsystem",
+  "displayName": "RC Avatar Venv System",
+  "version": "1.5.0",
+  "unity": "2019.4",
+  "description": "Make virtual environment for avatar.",
+  "vrchatVersion": "2022.1.1",
+  "license": "MIT",
+  "author": {
+    "name": "Rera*C",
+    "email": "soumt@rerac.dev",
+    "url": "https://rerac.dev"
+  },
+  "vpmDependencies": { "com.vrchat.avatars": ">=3.4.0"}
+}
